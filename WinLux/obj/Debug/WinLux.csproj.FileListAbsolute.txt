@@ -1,0 +1,10 @@
+C:\Users\Binm7md\source\repos\WinLux\WinLux\bin\Debug\WinLux.exe.config
+C:\Users\Binm7md\source\repos\WinLux\WinLux\bin\Debug\WinLux.exe
+C:\Users\Binm7md\source\repos\WinLux\WinLux\bin\Debug\WinLux.pdb
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.csprojAssemblyReference.cache
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.WinLux.resources
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.Properties.Resources.resources
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.csproj.GenerateResource.cache
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.csproj.CoreCompileInputs.cache
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.exe
+C:\Users\Binm7md\source\repos\WinLux\WinLux\obj\Debug\WinLux.pdb
